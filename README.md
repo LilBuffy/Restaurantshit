@@ -18,7 +18,7 @@ Basically, everything needed to decide what the fuck to eat.
 
 ## 💀 Project Status
 
-**DEDS / RIP**
+**RIP / Abandoned**
 
 The system is mainly built for educational purposes and demonstrates how a restaurant website can handle users, food items, orders, reviews, and other database operations.
 
