@@ -16,6 +16,16 @@ Users can:
 
 Basically, everything needed to decide what the fuck to eat.
 
+## 💀 Project Status
+
+**DEDS / RIP**
+
+The system is mainly built for educational purposes and demonstrates how a restaurant website can handle users, food items, orders, reviews, and other database operations.
+
+Nothing too fancy.
+
+Just food, code, PHP, MySQL, and a healthy amount of **blyat**.
+
 ## 🌏 Language Support
 
 The website supports:
@@ -50,16 +60,6 @@ Basically, the admin dashboard controls the whole fucking kitchen from the compu
 * XAMPP
 
 The system is designed for both **desktop and mobile devices**.
-
-## 💀 Project Status
-
-**School / Personal Project**
-
-The system is mainly built for educational purposes and demonstrates how a restaurant website can handle users, food items, orders, reviews, and other database operations.
-
-Nothing too fancy.
-
-Just food, code, PHP, MySQL, and a healthy amount of **blyat**.
 
 ## 🍔 In Short
 
