@@ -1,6 +1,6 @@
 # 🍽️ Basta Masarap Restaurant
 
-A modern **Filipino restaurant website** for browsing authentic Filipino dishes, ordering food, and doing the usual online restaurant bullshit.
+A fucking **Filipino restaurant website** for browsing Filipino food, ordering meals, and doing the usual online restaurant bullshit.
 
 Users can:
 
@@ -14,30 +14,36 @@ Users can:
 * View order history
 * Track delivery status
 
-Basically, everything needed to decide what the fuck to eat.
+Basically, everything needed to figure out **what the fuck you're eating today.**
 
-## 💀 Project Status
+## 🪦 Project Status
 
-**RIP / Abandoned**
+**ABANDONED**
 
-The system is mainly built for educational purposes and demonstrates how a restaurant website can handle users, food items, orders, reviews, and other database operations.
+This project was mainly built for educational purposes.
 
-Nothing too fancy.
+It demonstrates how a restaurant system can handle users, food, orders, reviews, ratings, comments, and other database bullshit.
 
-Just food, code, PHP, MySQL, and a healthy amount of **blyat**.
+The project is now dead.
+
+The food is gone.
+
+The database is probably suffering.
+
+**Покойся с миром, долбоёб.**
 
 ## 🌏 Language Support
 
-The website supports:
+Supports:
 
 * English
 * Filipino
 
-So both local customers and foreign visitors can understand the website without suffering **pizdets** trying to figure out what the hell everything means.
+So both locals and foreigners can understand the website without experiencing **пиздец** trying to figure out what the hell everything says.
 
 ## 👨‍💼 Admin Dashboard
 
-Administrators can manage:
+Admins can manage:
 
 * Users
 * Dishes
@@ -48,7 +54,9 @@ Administrators can manage:
 * Comments
 * Restaurant information
 
-Basically, the admin dashboard controls the whole fucking kitchen from the computer.
+Basically, the admin dashboard controls the entire fucking restaurant from one place.
+
+One wrong SQL query and the whole kitchen goes **BLYAAAAAT**.
 
 ## 🛠️ Technologies
 
@@ -59,7 +67,7 @@ Basically, the admin dashboard controls the whole fucking kitchen from the compu
 * MySQL
 * XAMPP
 
-The system is designed for both **desktop and mobile devices**.
+Designed to work on both **desktop and mobile devices**.
 
 ## 🍔 In Short
 
@@ -69,6 +77,10 @@ The system is designed for both **desktop and mobile devices**.
 
 **Rate food.**
 
-**Argue with the database when something breaks.**
+**Add shit to your wishlist.**
+
+**Argue with PHP when something breaks.**
+
+**Fight MySQL at 3 AM.**
 
 **Basta masarap, blyat.**
