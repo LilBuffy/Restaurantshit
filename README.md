@@ -14,8 +14,6 @@ Users can:
 * View order history
 * Track delivery status
 
-Basically, everything needed to figure out **what the fuck you're eating today.**
-
 ## 🪦 Project Status
 
 **ABANDONED**
@@ -24,13 +22,7 @@ This project was mainly built for educational purposes.
 
 It demonstrates how a restaurant system can handle users, food, orders, reviews, ratings, comments, and other database bullshit.
 
-The project is now dead.
-
-The food is gone.
-
-The database is probably suffering.
-
-**Покойся с миром, долбоёб.**
+The project is now dead. The food is gone. The database is probably suffering. **Покойся с миром, долбоёб.**
 
 ## 🌏 Language Support
 
@@ -53,10 +45,6 @@ Admins can manage:
 * Reviews
 * Comments
 * Restaurant information
-
-Basically, the admin dashboard controls the entire fucking restaurant from one place.
-
-One wrong SQL query and the whole kitchen goes **BLYAAAAAT**.
 
 ## 🛠️ Technologies
 
