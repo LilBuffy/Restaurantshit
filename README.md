@@ -1,37 +1,37 @@
 # 🍽️ Basta Masarap Restaurant
 
-A fucking **Filipino restaurant website** for browsing Filipino food, ordering meals, and doing the usual online restaurant bullshit.
-
-Users can:
-
-* Browse Filipino dishes
-* View food details
-* Order meals online
-* Like or dislike dishes
-* Add dishes to favorites and wishlists
-* Rate and comment on dishes
-* Create and manage an account
-* View order history
-* Track delivery status
+Isang fucking **Filipino restaurant website** para mag browse ng pagkain, umorder, at gumawa ng usual online restaurant bullshit.
 
 ## 🪦 Project Status
 
 **ABANDONED**
 
-This project was mainly built for educational purposes.
+Educational project lang ’to.
 
-It demonstrates how a restaurant system can handle users, food, orders, reviews, ratings, comments, and other database bullshit.
+Ginawa ko para ipakita kung paano gumagana ang users, pagkain, orders, reviews, ratings, comments, at database bullshit.
 
-The project is now dead. The food is gone. The database is probably suffering. **Покойся с миром, долбоёб.**
+Patay na ang project. Naubos na ang pagkain. Yung database baka naghihingalo na rin.
+
+**Покойся с миром, долбоёб.**
+
+## 🍔 What This Shit Can Do
+
+* Mag browse ng Filipino dishes
+* Makita ang food details
+* Umorder online
+* Mag like at dislike ng dishes
+* Mag add sa favorites at wishlist
+* Mag rate at comment
+* Gumawa at mag manage ng account
+* Makita ang order history
+* Ma track ang delivery
 
 ## 🌏 Language Support
-
-Supports:
 
 * English
 * Filipino
 
-So both locals and foreigners can understand the website without experiencing **пиздец** trying to figure out what the hell everything says.
+Para hindi malito ang locals at foreigners habang hinahanap kung saan ang fucking pagkain.
 
 ## 👨‍💼 Admin Dashboard
 
@@ -55,7 +55,7 @@ Admins can manage:
 * MySQL
 * XAMPP
 
-Designed to work on both **desktop and mobile devices**.
+Gumagana sa **desktop at mobile**.
 
 ## 🍔 In Short
 
@@ -65,10 +65,10 @@ Designed to work on both **desktop and mobile devices**.
 
 **Rate food.**
 
-**Add shit to your wishlist.**
+**Mag wishlist ng kung anu anong shit.**
 
-**Argue with PHP when something breaks.**
+**Makipag away sa PHP kapag nasira.**
 
-**Fight MySQL at 3 AM.**
+**Makipag suntukan sa MySQL ng 3 AM.**
 
 **Basta masarap, blyat.**
