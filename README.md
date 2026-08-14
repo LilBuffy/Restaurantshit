@@ -6,7 +6,7 @@ Isang fucking **Filipino restaurant website** para mag browse ng pagkain, umorde
 
 **ABANDONED**
 
-Educational project lang ’to.
+Educational project ko lang ’to.
 
 Ginawa ko para ipakita kung paano gumagana ang users, pagkain, orders, reviews, ratings, comments, at database bullshit.
 
