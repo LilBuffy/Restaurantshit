@@ -10,7 +10,7 @@ Educational project lang ’to.
 
 Ginawa ko para ipakita kung paano gumagana ang users, pagkain, orders, reviews, ratings, comments, at database bullshit.
 
-Patay na ang project. Naubos na ang pagkain. Yung database baka naghihingalo na rin.
+Patay na ang project. Naubos na ang pagkain. Yung database malamang baka naghihingalo na rin.
 
 **Покойся с миром, долбоёб.**
 
@@ -70,5 +70,3 @@ Gumagana sa **desktop at mobile**.
 **Makipag away sa PHP kapag nasira.**
 
 **Makipag suntukan sa MySQL ng 3 AM.**
-
-**Basta masarap, blyat.**
